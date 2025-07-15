@@ -179,3 +179,44 @@ body {
     align-items: center;
     gap: 20px;
 }
+
+
+/* focus section style */
+.focus_conainer {
+    max-width: 1140px;
+    margin: 0 auto;
+    border-radius: 14px;
+    background: rgb(255, 255, 255);
+    padding: 70px 0;
+}
+
+.focus-content {
+    text-align: center;
+}
+
+.focus-content h1 {
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 120%;
+}
+
+.focus-content p {
+    color: rgba(0, 0, 0, 0.5);
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 140%;
+    padding: 20px 0;
+
+}
+
+.focus_image {
+    max-width: 840px;
+    margin: 0 auto;
+}
+
+.focus_image img {
+    border-radius: 48px;
+    margin-top: 20px;
+}
